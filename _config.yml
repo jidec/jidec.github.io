@@ -5,3 +5,17 @@ plugins:
 
 github:
   username: jidec
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "CV"
+    url: "/cv"
+  - title: "Publications"
+    url: "/publications"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Contact"
+    url: "/contact"
