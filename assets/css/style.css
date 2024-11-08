@@ -1,0 +1,21 @@
+nav ul {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0;
+  margin: 0;
+  text-align: center; /* Center align the menu */
+}
+
+nav ul li {
+  margin: 10px 0; /* Add vertical spacing between items */
+}
+
+nav ul li a {
+  text-decoration: none; /* Remove underline */
+  color: #333; /* Adjust link color if desired */
+  font-weight: bold;
+  font-size: 1.2em; /* Increase font size */
+}
+
+nav ul li a:hover {
+  text-decoration: underline; /* Optional hover effect */
+}
