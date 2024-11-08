@@ -4,6 +4,7 @@ title: About Me
 ---
 
 # About Me
-I am a graduate student specializing in [your field]. My research explores [brief description].
 
-Contact: [Your Email] | [LinkedIn Profile] | [Twitter]
+I am a PhD candidate at the Florida Museum of Natural History at the University of Florida as part of the Guralnick Lab. I work on eco-evolutionary modeling of traits, AI and computer-vision-based data collection, and educational game dev.
+
+Contact: jidec [at] ufl [dot] edu
