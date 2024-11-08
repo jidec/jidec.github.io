@@ -9,8 +9,10 @@ github:
 nav:
   - title: "About"
     url: "/"
-  - title: "Papers (with Code!)"
-    url: "/papers"
+  - title: "Publications"
+    url: "/publications"
+  - title: "Papers with Code"
+    url: "/papers_with_code"
   - title: "Packages"
     url: "/packages"
   - title: "Games"
