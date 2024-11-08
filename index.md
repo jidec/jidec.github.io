@@ -3,11 +3,6 @@ layout: default
 title: My GitHub Projects
 ---
 
-# My GitHub Projects
+# About
 
-Here are my public repositories:
-
-{% for repository in site.github.public_repositories %}
-  - [{{ repository.name }}]({{ repository.html_url }})
-    - {{ repository.description }}
-{% endfor %}
+I am a PhD candidate at the Florida Museum of Natural History at the University of Florida as part of the Guralnick Lab. I work on eco-evolutionary modeling of traits, AI and computer-vision-based data collection, and educational game dev.
