@@ -17,6 +17,9 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
+        <!-- Profile picture -->
+        <img src="{{ "/assets/penguin.jpg" | relative_url }}" alt="Profile picture" style="width:150px; border-radius:50%; margin-top: 10px;">
+
         <!-- Navigation menu -->
         <nav>
           <ul>
@@ -25,10 +28,9 @@
             {% endfor %}
           </ul>
         </nav>
-        <!-- End navigation menu -->
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{ site.logo | relative_url }}" alt="Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -64,4 +66,5 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
+
 
