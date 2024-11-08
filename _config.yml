@@ -7,15 +7,15 @@ github:
   username: jidec
 
 nav:
-  - title: "Home"
+  - title: "About"
     url: "/"
-  - title: "Projects"
-    url: "/projects"
+  - title: "Papers (with Code!)"
+    url: "/papers"
+  - title: "Packages"
+    url: "/packages"
+  - title: "Games"
+    url: "/games"
   - title: "CV"
     url: "/cv"
-  - title: "Publications"
-    url: "/publications"
-  - title: "Blog"
-    url: "/blog"
   - title: "Contact"
     url: "/contact"
